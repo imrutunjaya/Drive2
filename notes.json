@@ -3,12 +3,12 @@
     {
       "name": "Mathematics",
       "notes": [
-        {"id": 1, "title": "Geopolitical 1", "description": "Description for Note 1", "pdfLink": "https://drive.google.com/uc?export=download&id=1r7NSSZlcxDrKPcfbNmGIAokT5TDihs-N"},
-        {"id": 2, "title": "Note 2", "description": "Description for Note 2", "pdfLink": "#"},
-        {"id": 3, "title": "Note 3", "description": "Description for Note 3", "pdfLink": "#"},
-        {"id": 4, "title": "Note 4", "description": "Description for Note 4", "pdfLink": "#"},
-        {"id": 5, "title": "Note 5", "description": "Description for Note 5", "pdfLink": "#"},
-        {"id": 6, "title": "Note 6", "description": "Description for Note 6", "pdfLink": "#"},
+        {"id": 1, "title": "Geopolitical 1", "description": "This not only covers the text also the required topics that texh the political and geological with this the content are listed as 1.Basics 2.innovation and india ", "pdfLink": "https://drive.google.com/uc?export=download&id=1r7NSSZlcxDrKPcfbNmGIAokT5TDihs-N"},
+        {"id": 2, "title": "Aptitude and reasoning", "description": "Basic to advance math and its implementation ", "pdfLink": "#"},
+        {"id": 3, "title": "Social Science", "description": "Description for Note 3", "pdfLink": "#"},
+        {"id": 4, "title": "Current affairs", "description": "Description for Note 4", "pdfLink": "#"},
+        {"id": 5, "title": "sociology", "description": "Description for Note 5", "pdfLink": "#"},
+        {"id": 6, "title": "Tools and implications", "description": "Description for Note 6", "pdfLink": "#"},
         {"id": 7, "title": "Note 7", "description": "Description for Note 7", "pdfLink": "#"},
         {"id": 8, "title": "Note 8", "description": "Description for Note 8", "pdfLink": "#"},
         {"id": 9, "title": "Note 9", "description": "Description for Note 9", "pdfLink": "#"},
